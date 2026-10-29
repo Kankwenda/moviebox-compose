@@ -1,3 +1,9 @@
+# MoviePrince 🎬
+
+Rebranding personnel de [MovieBox Compose](https://github.com/majorkik/moviebox-compose) par majorkik — catalogue de films et séries via l'API TMDB, recherche, fiches détaillées, avec lecteur pour les sources ajoutées par l'utilisateur. Code d'origine conservé avec crédit à l'auteur.
+
+---
+
 # MovieBox Compose 🚧 [Work in progress] 🚧
 
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.8.0-brightgreen)](https://kotlinlang.org)
